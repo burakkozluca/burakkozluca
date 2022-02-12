@@ -7,23 +7,6 @@
 
 - 🔭 I’m currently working on [Libft](https://github.com/burakkozluca/LIBFT)
 
-### Blogs posts
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://dev.to/feed/burakkozluca"
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/burakkozluca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="burakkozluca" height="30" width="40" /></a>
