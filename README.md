@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakkozluca&show_icons=true&locale=en" alt="burakkozluca" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakkozluca&" alt="burakkozluca" /></p>
+
+<a href="https://app.daily.dev/burakkozluca"><img src="https://api.daily.dev/devcards/5b1b50582b114ab4854839599d387fe7.png?r=xy6" width="400" alt="Burak Kozluca's Dev Card"/></a>
