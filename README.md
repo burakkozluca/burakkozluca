@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">Student at Ecole 42</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakkozluca&label=Profile%20views&color=2d9534&style=flat" alt="burakkozluca" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakkozluca" alt="burakkozluca" /></a> </p>
 
 - 🔭 I’m currently working on [Libft](https://github.com/burakkozluca/LIBFT)
 
