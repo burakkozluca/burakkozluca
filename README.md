@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakkozluca&label=Profile%20views&color=2d9534&style=flat" alt="burakkozluca" /> </p>
 
 
-- 🔭 I’m currently working on [ft_printf](https://github.com/burakkozluca/42/tree/main/ft_printf)
+- 🔭 I’m currently working on [push_swap](https://github.com/burakkozluca/42/tree/main/push_swap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
