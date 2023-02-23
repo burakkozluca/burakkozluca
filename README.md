@@ -2,7 +2,7 @@
 <h3 align="center">Student at Ecole 42</h3>
 
 <p align="center"> 
-  Visitor count<br>
+  Ziyaretçi Sayısı<br>
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
 
