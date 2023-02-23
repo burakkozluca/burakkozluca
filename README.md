@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Burak!</h1>
 <h3 align="center">Student at Ecole 42</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakkozluca&label=Profile%20views&color=2d9534&style=flat" alt="burakkozluca" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 
 - 🔭 I’m currently working on [philosophers](https://github.com/burakkozluca/Philosophers)
