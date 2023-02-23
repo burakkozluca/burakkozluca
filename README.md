@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Burak!</h1>
-<h3 align="center">Student at Ecole 42</h3>
+<p align="center">
+  <a href="https://github.com/mmtemel">
+    <img src="https://github.com/mmtemel/mmtemel/blob/ae23489d119835fd4240cacd1753f9b03db58146/Mert%20Musa%20Temel.png" width="30%" height="30%" alt="Mert Musa Temel" />
+  </a>
+</p>
 
 <p align="center"> 
   Ziyaretçi Sayısı<br>
