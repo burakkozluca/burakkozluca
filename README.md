@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mmtemel">
+  <a href="https://github.com/burakkozluca">
     <img src="https://github.com/mmtemel/mmtemel/blob/ae23489d119835fd4240cacd1753f9b03db58146/Burak%20Kozluca.png" width="30%" height="30%" alt="Burak Kozluca" />
   </a>
 </p>
