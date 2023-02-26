@@ -6,7 +6,7 @@
 
 <p align="center"> 
   Ziyaretçi Sayısı<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/burakkozluca/count.svg" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
