@@ -1,5 +1,3 @@
-![kriptobogasi_Instagram_-_2023-03-09T163129 268-removebg-preview](https://user-images.githubusercontent.com/83135082/224038308-ce8a1d80-47bf-4e14-8fac-1bf72844b458.png)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/burak-kozluca-9ba572224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burakkozluca" height="30" width="40" /></a>
