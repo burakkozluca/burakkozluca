@@ -3,7 +3,7 @@
     <img src="https://github.com/mmtemel/mmtemel/blob/ae23489d119835fd4240cacd1753f9b03db58146/Burak%20Kozluca.png" width="30%" height="30%" alt="Burak Kozluca" />
   </a>
 </p>
-(https://user-images.githubusercontent.com/83135082/224038194-26972088-b6d1-415a-a6c1-b1bc5e63aa5d.png)
+![kriptobogasi_Instagram_-_2023-03-09T163129 268-removebg-preview](https://user-images.githubusercontent.com/83135082/224038308-ce8a1d80-47bf-4e14-8fac-1bf72844b458.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
