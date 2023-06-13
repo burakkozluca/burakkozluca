@@ -1,6 +1,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/burakkozluca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burakkozluca" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/burakkozluca" target="blank"><img align="center" src="gmail.png" alt="mail" height="30" width="40" /></a>
 </p>
 
 [![bkozluca's 42 stats](https://badge42.vercel.app/api/v2/cliub012r005908lewyjwf2da/stats?cursusId=21&coalitionId=232)](https://github.com/JaeSeoKim/badge42)
