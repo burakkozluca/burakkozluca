@@ -1,7 +1,7 @@
 <h1 align= "center">Hi 🙋‍♂️, I'm Burak Kozluca </h1>
 <h3 align= "center">Intern Software Developer</h3>
 
-- 💻 I'm currently working on **CPP-Modules**
+- 💻 I'm currently working on **AKBANK_COBOL_BOOTCAMP**
 
 - 🎯 I'm currently learning **JAVA** **&** **COBOL** **&** **C++**
 
