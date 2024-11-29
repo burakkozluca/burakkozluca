@@ -1,9 +1,9 @@
 <h1 align= "center">Hi 🙋‍♂️, I'm Burak Kozluca </h1>
 <h3 align= "center">Intern Software Developer</h3>
 
-- 💻 I'm currently working on **FT_TRANSCENDENCE**
+<!--- 💻 I'm currently working on **FT_TRANSCENDENCE**-->
 
-- 🎯 I'm currently learning **JAVA** **&** **JAVASCRIPT** **&** **C++**
+- 🎯 I'm currently learning **C# .NET** **&** **ANGULAR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
